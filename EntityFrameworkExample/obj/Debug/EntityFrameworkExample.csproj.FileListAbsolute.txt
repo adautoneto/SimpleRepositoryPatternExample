@@ -1,0 +1,7 @@
+c:\users\adauto\documents\visual studio 2010\Projects\EntityFrameworkExample\EntityFrameworkExample\bin\EntityFrameworkExample.dll
+c:\users\adauto\documents\visual studio 2010\Projects\EntityFrameworkExample\EntityFrameworkExample\bin\EntityFrameworkExample.pdb
+c:\users\adauto\documents\visual studio 2010\Projects\EntityFrameworkExample\EntityFrameworkExample\bin\EntityFramework.dll
+c:\users\adauto\documents\visual studio 2010\Projects\EntityFrameworkExample\EntityFrameworkExample\bin\EntityFramework.xml
+c:\users\adauto\documents\visual studio 2010\Projects\EntityFrameworkExample\EntityFrameworkExample\obj\Debug\ResolveAssemblyReference.cache
+c:\users\adauto\documents\visual studio 2010\Projects\EntityFrameworkExample\EntityFrameworkExample\obj\Debug\EntityFrameworkExample.dll
+c:\users\adauto\documents\visual studio 2010\Projects\EntityFrameworkExample\EntityFrameworkExample\obj\Debug\EntityFrameworkExample.pdb
